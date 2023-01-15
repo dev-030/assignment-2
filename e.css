@@ -139,10 +139,6 @@ nav h1 {
 	display: block;
 	max-width: 50%;
 	height: auto;
-	background-image: url(/images/blobanimation.svg);
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
 	padding: 7.5vw 0vw;
 }
 
